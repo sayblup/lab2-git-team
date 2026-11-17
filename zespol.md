@@ -1,4 +1,4 @@
-# Zespół
+# DREAM TEAM
 Nazwa zespołu: PszczółkiVisual
 
 ## Skład
