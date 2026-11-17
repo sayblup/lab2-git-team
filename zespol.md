@@ -1,5 +1,5 @@
 # Zespół
-Nazwa zespołu: ???
+Nazwa zespołu: Pszczółki
 ## Skład
 Kamil Z
 ## Motto
