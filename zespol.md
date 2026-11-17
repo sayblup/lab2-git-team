@@ -1,4 +1,4 @@
-# Zespół
+# Code Team
 Nazwa zespołu: PszczółkiVisual
 
 ## Skład
