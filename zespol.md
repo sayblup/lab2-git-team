@@ -5,3 +5,4 @@ Kamil Z
 ## Motto
 ???
 ## Ulubione technologie
+Git
