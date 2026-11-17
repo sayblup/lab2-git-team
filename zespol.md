@@ -4,3 +4,4 @@ Nazwa zespołu: ???
 ## Motto
 ???
 ## Ulubione technologie
+Git
