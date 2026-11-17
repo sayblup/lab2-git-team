@@ -1,5 +1,5 @@
 # Zespół
-Nazwa zespołu: ???
+Nazwa zespołu: Visualnienotatnik
 ## Skład
 Kamil Z
 ## Motto
