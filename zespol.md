@@ -1,5 +1,6 @@
 # Zespół
-Nazwa zespołu: Pszczółki
+Nazwa zespołu: PszczółkiVisual
+
 ## Skład
 Kamil Z
 ## Motto
